@@ -1,4 +1,4 @@
-# 🏄‍♂️ Akli Chitti
+# 🧑‍💻 Akli Chitti
 
 **`Web/mobile developer`**
 
