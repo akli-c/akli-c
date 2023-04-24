@@ -19,12 +19,11 @@ I'm a full-stack developer trying to do my best to evolve in digital world and m
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <br />
 
 #
 
-<details>
  <summary><h3>👨‍💻 Akli's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. Computer science is my passion since my youth. Every day is a new day to learn new technologies and to stay up to date thanks to self-training, which is the best learning system in my opinion. 
 I use several languages but the most recurrent are : PHP (Symfony/Laravel), NodeJS and also HTML/CSS and JavaScript for the front-end. I always put all my efforts in my projects so I'm sure they succeed.
