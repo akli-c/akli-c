@@ -29,3 +29,4 @@ I'm a full-stack developer trying to do my best to evolve in digital world and m
 I use several languages but the most recurrent are : PHP (Symfony/Laravel), NodeJS and also HTML/CSS and JavaScript for the front-end. I always put all my efforts in my projects so I'm sure they succeed.
 
 [linkedin]: https://www.linkedin.com/in/aklichitti/
+![akli-c's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akli-c&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
