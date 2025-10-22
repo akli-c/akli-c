@@ -2,7 +2,7 @@
 
 **`Web/mobile developer`**
 
-I'm a full-stack developer trying to do my best to evolve in digital world and making it better. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Passionate full-stack developer dedicated to building innovative digital solutions. I craft projects from concept to deployment—transforming ideas into functional, real-world applications through thoughtful planning, design, and code.
 
 ---
 
@@ -27,8 +27,14 @@ I'm a full-stack developer trying to do my best to evolve in digital world and m
 #
 
  <summary><h3>👨‍💻 Akli's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. Computer science is my passion since my youth. Every day is a new day to learn new technologies and to stay up to date thanks to self-training, which is the best learning system in my opinion. 
-I use several languages but the most recurrent are : PHP (Symfony/Laravel), NodeJS and also HTML/CSS and JavaScript for the front-end. I always put all my efforts in my projects so I'm sure they succeed.
+   My journey in software development began with an insatiable curiosity about how technology shapes our world. Computer science has been my passion since youth, driving me to continuously expand my knowledge through self-directed learning—the most effective approach, in my experience.
+Core Technologies:
+
+Backend: C# (ASP.NET), PHP (Symfony, Laravel), Node.js
+Frontend: HTML, CSS, JavaScript, TypeScript, React
+Tools: Git, Linux/Unix, Bash
+
+I approach every project with dedication and attention to detail, ensuring successful outcomes through continuous learning and staying current with emerging technologies.
 
 [linkedin]: https://www.linkedin.com/in/aklichitti/
 ![akli-c's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akli-c&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
