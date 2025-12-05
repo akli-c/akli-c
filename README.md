@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-Passionate software engineer dedicated to building innovative digital solutions. I craft projects from concept to deployment—transforming ideas into functional, real-world applications through thoughtful planning, design, and code.
+Passionate software engineer dedicated to building innovative digital solutions. I craft projects from concept to deployment, transforming ideas into functional, real-world applications through thoughtful planning, design, and code.
 
 ---
 
